@@ -1,0 +1,2 @@
+-- TODO: DDL for all tables
+-- Tables: Member, Book, Author, BookAuthor, Publisher, Copy, Loan, Fine, Reservation, Staff

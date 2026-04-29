@@ -1,0 +1,1 @@
+-- TODO: Indexes on email, isbn, loan_date
